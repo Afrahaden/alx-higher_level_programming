@@ -1,3 +1,13 @@
 #!/usr/bin/python3
-class LockedClass:
+"""
+Define a class by: LockedClass
+"""
+
+
+class LockedClass():
+    """
+    Define a LockedClass
+    Atributes:
+        None
+    """
     __slots__ = "first_name"
